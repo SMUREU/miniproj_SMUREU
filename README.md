@@ -29,5 +29,5 @@ TBD (something with gun ownership + feature importance)
 *The following is what my data table looks like*
 |Index|Geography|LocYear|%>=HS|%>=Bachelor's|Pov for 25yo<=, <HS|Pov for 25yo<=, >=Bachelor's|GeoFIPS|HFR|SNAP_rate|DPI_rate|PI_rate|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|0|0400000US01|AL2010|82.1|21.9|30.0|4.1|1000|0.456|0.147621|0.08201|0.0892866|
+|n|geographic identifier|State Abbreviation + Year|Percent high school graduate or higher|	Percent bachelor's degree or higher|Poverty rate for the population 25 years and over for whom poverty status is determined by educational attainment level, less than high school graduate|Poverty rate for the population 25 years and over for whom poverty status is determined by educational attainment level, bachelor's degree or higher|geographic FIPS code|Factor scores for household firearm ownership latent factor|people who get CashPublicAssistanceORFoodStamps/SNAP divided by total population|Disposable Personal Income / total population|Personal Income / total population|
 |...|...|...|...|...|...|...|...|...|...|...|...|

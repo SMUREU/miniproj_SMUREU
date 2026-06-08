@@ -1,0 +1,51 @@
+State,Total House,House Dem,House Rep,House Third Party,House Vacancies,Total Senate,Senate Dem,Senate Rep,Senate Third Party,Senate Vacancies,Legislative Control,Governor Party,State Control
+Alabama,105,60,45,,,35,21,14,,,D,R,S
+Alaska,40,18,22,,,20,10,10,,,S,R,S
+Arizona,60,25,35,,,30,12,18,,,R,R,R
+Arkansas,100,71,28,1,,35,27,8,,,D,D,D
+California,80,49,29,1,1,40,25,14,,1,D,R,S
+Colorado,65,37,27,1,,35,21,14,,,D,D,D
+Connecticut,151,114,36,,1,36,24,12,,,D,R,S
+Delaware,41,24,17,,,21,15,6,,,D,D,D
+Florida,120,43,76,,1,40,14,26,,,R,R,R
+Georgia,180,74,105,1,,56,21,34,,1,R,R,R
+Hawaii,51,45,6,,,25,23,2,,,D,R,S
+Idaho,70,18,52,,,35,7,28,,,R,R,R
+Illinois,118,70,48,,,59,37,22,,,D,D,D
+Indiana,100,52,48,,,50,17,33,,,S,R,S
+Iowa,100,56,44,,,50,32,18,,,D,D,D
+Kansas,125,49,76,,,40,9,31,,,R,D,S
+Kentucky,100,65,35,,,38,17,20,1,,S,D,S
+Louisiana,105,52,50,3,,39,23,16,,,S,R,S
+Maine,151,95,55,1,,35,20,15,,,D,D,D
+Maryland,141,104,36,,1,47,33,14,,,D,D,D
+Massachusetts,160,144,16,,,40,34,5,,1,D,D,D
+Michigan,110,66,43,,1,38,16,22,,,S,D,S
+Minnesota,134,87,47,,,67,46,21,,,D,R,S
+Mississippi,122,74,48,,,52,26,25,,1,S,R,S
+Missouri,163,73,89,,1,34,11,23,,,R,D,S
+Montana,100,50,50,,,50,23,27,,,S,D,S
+Nebraska,,,,,,49,,,49,,Nonpartisan,R,N/A
+Nevada,42,28,14,,,21,12,8,,1,D,R,S
+New Hampshire,400,222,175,,3,24,14,10,,,D,D,D
+New Jersey,80,47,33,,,40,23,17,,,D,R,S
+New Mexico,70,45,25,,,42,27,15,,,D,D,D
+New York,150,107,43,,,62,31,30,,1,S,D,S
+North Carolina,120,68,52,,,50,30,20,,,D,D,D
+North Dakota,94,36,58,,,47,21,26,,,R,R,R
+Ohio,99,53,46,,,33,12,21,,,S,D,S
+Oklahoma,101,40,61,,,48,22,26,,,R,D,S
+Oregon,60,36,24,,,30,18,12,,,D,D,D
+Pennsylvania,203,103,97,,3,50,20,30,,,S,D,S
+Rhode Island,75,69,6,,,38,33,4,1,,D,R,S
+South Carolina,124,51,73,,,46,19,27,,,R,R,R
+South Dakota,70,24,46,,,35,14,21,,,R,R,R
+Tennessee,99,47,50,1,1,33,14,19,,,R,D,S
+Texas,150,73,77,,,31,12,19,,,R,R,R
+Utah,75,22,53,,,29,8,21,,,R,R,R
+Vermont,150,95,48,7,,30,22,7,1,,D,R,S
+Virginia,100,39,59,2,,40,22,18,,,S,R,S
+Washington,98,62,36,,,49,31,18,,,D,D,D
+West Virginia,100,71,29,,,34,26,8,,,D,D,D
+Wisconsin,99,52,46,1,,33,18,15,,,D,D,D
+Wyoming,60,19,41,,,30,7,23,,,R,D,S

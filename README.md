@@ -24,7 +24,7 @@
 *Projects do not need to use advanced statistics or machine learning*
 
 ## My Project
-TBD (something with gun ownership + feature importance)
+- Which features best explain gun ownership in America?
 ### My Data
 *The following is what my data table looks like*
 |Index|Geography|LocYear|%>=HS|%>=Bachelor's|Pov for 25yo<=, <HS|Pov for 25yo<=, >=Bachelor's|GeoFIPS|HFR|SNAP_rate|DPI_rate|PI_rate|
